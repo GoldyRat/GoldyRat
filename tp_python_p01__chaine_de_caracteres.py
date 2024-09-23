@@ -68,7 +68,7 @@ print(vowels_and_consonants("lesamismangentuneglaceetouitonton"))
 #   - s'il ne rentre pas exactement la chaine attendue alors on lui demande
 #     de réessayer...Jusqu'à ce qu'il rentre la bonen chaine. (PUFS)
 
-def check_right_chain (chain):
+""" def check_right_chain (chain):
     
     is_chain = False
     while is_chain == False:
@@ -81,4 +81,13 @@ def check_right_chain (chain):
             print ("Wrong chain ! Try again")
     
 
-check_right_chain ("pondralugon")
+check_right_chain ("pondralugon") """
+
+def goated_chain_check(chain : str):
+    check = input ("Enter a chain ! ")
+    while check != chain:
+        print ("Wrong chain ! Try again")
+        check = input ("Enter a chain ! ")
+    print ("This is the right chain !")
+
+goated_chain_check("bonjour")
