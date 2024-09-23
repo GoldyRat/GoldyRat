@@ -1,5 +1,6 @@
-Hi, I’m GoldenRat
-I don't know how to code but love it
-and I'm learning it
-I don't know how GitHub will be useful
-But I like it
+Hi, I’m **GoldenRat** ! (The name was taken)
+
+Pretty good at **Python**, **HTML**,**CSS** and **JavaScript** 
+
+I keep learning about code and science.
+
