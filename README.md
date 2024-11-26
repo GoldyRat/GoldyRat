@@ -1,4 +1,4 @@
-<h1>Hi, I’m **GoldenRat** ! (The name was taken)</h1>
+<h1>Hi, I’m GoldenRat ! (The name was taken)</h1>
 
 
 
