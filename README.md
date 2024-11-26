@@ -1,6 +1,6 @@
 <h1>Hi, I’m GoldenRat ! (The name was taken)</h1>
 
-
+[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
 
 Pretty good at **Python**, **HTML**, **CSS** and **JavaScript** 
 
